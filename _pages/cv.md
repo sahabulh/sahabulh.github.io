@@ -22,28 +22,34 @@ pricing and fairness.
 Education
 ======
 -   **Ph.D in Computer Engineering (2020 - Present)** 
-	*University of New Mexico*
+	*University of New Mexico*  
+	
 	Advisor: Dr. Eirini Eleni Tsiropoulou
 -   **Master of Science in Electrical and Electronic Engineering (2016 - 2018)** 
-	*University of Dhaka, Dhaka, Bangladesh*
+	*University of Dhaka, Dhaka, Bangladesh*  
+	
 	CGPA:3.61/4.00
 -   **Bachelor of Science in Electrical and Electronic Engineering (2012 - 2016)** 
-	*University of Dhaka, Dhaka, Bangladesh*
+	*University of Dhaka, Dhaka, Bangladesh*  
+	
 	CGPA:3.80/4.00
 
 Work experience
 ======
 -   **Research Assistant** 
-	*Performance & Resource OpTimizatiOn in Networks (PROTON) Lab*
+	*Performance & Resource OpTimizatiOn in Networks (PROTON) Lab*  
+	
 	Department of Electrical and Computer Engineering,University of New Mexico
 -   **Lecturer** 
-	*Department of Electrical and Electronic Engineering*
+	*Department of Electrical and Electronic Engineering*  
+	
 	Bangladesh University of Business and Technology (BUBT)
   
 Achievements
 ============
 -   **ITPEC Examination Gold Award** 
-	*Fundamental Information Technology Engineer Examination (ITEE-FE)*
+	*Fundamental Information Technology Engineer Examination (ITEE-FE)*  
+	
 	for achieving the highest score among all ITPEC countries
 
 Technical Skills
