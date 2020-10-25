@@ -5,12 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Journal Paper
+=============
 
-{% include base_path %}
+- **Contract-Theoretic Demand Response Management in Smart Grid Systems**
+	Irtija, N., Sangoleye, F., & Tsiropoulou, E. E. (2020). Contract-Theoretic Demand Response Management in Smart Grid Systems. IEEE Access, 8, 184976-184987.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Conference Paper
+================
+
+- **Data Acquisition in Social Internet of Things basedon Contract Theory**
+	Irtija, N., Sangoleye, F., & Tsiropoulou, E. E. (Under Review)
+
+- **Fatigue Detection Using Facial Landmarks**
+	IRTIJA, N., SAMI, M., & AHAD, M. A. R. (2018). Fatigue Detection Using Facial Landmarks. In International Symposium on Affective Science and Engineering ISASE2018 (pp. 1-6). Japan Society of Kansei Engineering.
