@@ -9,7 +9,7 @@ Journal Paper
 =============
 
 - **Contract-Theoretic Demand Response Management in Smart Grid Systems**    
-	Irtija, N., Sangoleye, F., & Tsiropoulou, E. E. (2020). Contract-Theoretic Demand Response Management in Smart Grid Systems. IEEE Access, 8, 184976-184987.
+	Irtija, N., Sangoleye, F., & Tsiropoulou, E. E. (2020). Contract-Theoretic Demand Response Management in Smart Grid Systems. IEEE Access, 8, 184976-184987. [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9220119)
 
 Conference Paper
 ================
@@ -18,4 +18,4 @@ Conference Paper
 	Irtija, N., Sangoleye, F., & Tsiropoulou, E. E. (Under Review) IEEE ICC 2021
 
 - **Fatigue Detection Using Facial Landmarks**   
-	IRTIJA, N., SAMI, M., & AHAD, M. A. R. (2018). Fatigue Detection Using Facial Landmarks. In International Symposium on Affective Science and Engineering ISASE2018 (pp. 1-6). Japan Society of Kansei Engineering.
+	IRTIJA, N., SAMI, M., & AHAD, M. A. R. (2018). Fatigue Detection Using Facial Landmarks. In International Symposium on Affective Science and Engineering ISASE2018 (pp. 1-6). Japan Society of Kansei Engineering. [pdf](https://www.jstage.jst.go.jp/article/isase/ISASE2018/0/ISASE2018_1_16/_pdf)
