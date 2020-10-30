@@ -14,8 +14,8 @@ Journal Paper
 Conference Paper
 ================
 
-- **Data Acquisition in Social Internet of Things basedon Contract Theory**   
-	Irtija, N., Sangoleye, F., & Tsiropoulou, E. E. (Under Review)
+- **Data Acquisition in Social Internet of Things based on Contract Theory**   
+	Irtija, N., Sangoleye, F., & Tsiropoulou, E. E. (Under Review) IEEE ICC 2021
 
 - **Fatigue Detection Using Facial Landmarks**   
 	IRTIJA, N., SAMI, M., & AHAD, M. A. R. (2018). Fatigue Detection Using Facial Landmarks. In International Symposium on Affective Science and Engineering ISASE2018 (pp. 1-6). Japan Society of Kansei Engineering.
