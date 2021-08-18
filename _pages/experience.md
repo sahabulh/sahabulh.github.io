@@ -9,8 +9,6 @@ author_profile: true
 -   **Research Assistant**   
 	*Performance & Resource OpTimizatiOn in Networks (PROTON) Lab*  
 	Department of Electrical and Computer Engineering, University of New Mexico
--   **Teaching Assistant**   
-    *ECE131 Programming Fundamentals*  
     Department of Electrical and Computer Engineering, University of New Mexico
 -   **Lecturer**   
 	*Department of Electrical and Electronic Engineering*  
