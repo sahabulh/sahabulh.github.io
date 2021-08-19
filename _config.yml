@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nafis Irtija"
+title                    : "Md Sahabul Hossain"
 title_separator          : "-"
-name                     : &name "Nafis Irtija"
+name                     : &name "Md Sahabul Hossain"
 description              : &description "Ph.D. Student at University of New Mexico,USA"
-url                      : https://nafisirtija.github.io 
+url                      : https://sahabulh.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "NafisIrtija/NafisIrtija.github.io"
+repository               : "sahabulh/sahabulh.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nafis Irtija"
+  name             : "Md Sahabul Hossain"
   avatar           : "img.jpg"
   bio              : "Ph.D. Student, Department of Electrical and Computer Engineering, University of New Mexico"
   location         : "Albuquerque, New Mexico, USA"
   employer         : "Universiy of New Mexico"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=zCQqr3MAAAAJ"
-  email            : "nafis@unm.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=aPbbU74AAAAJ&hl=en"
+  email            : "mhossain1@unm.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "/nafis-irtija/"
-  orcid            : "https://orcid.org/0000-0001-7932-6123"
+  linkedin         : "/sahabulh/"
+  orcid            : #"https://orcid.org/0000-0001-7932-6123"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@IrtijaNafis"
+  twitter          : #"@IrtijaNafis"
   vine             :
   weibo            :
   xing             :
