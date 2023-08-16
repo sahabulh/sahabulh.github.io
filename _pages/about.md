@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://nafisirtija.github.io/images/unm-ece-logo.png" alt="Photo" style="width: 250px;"/> 
+  <img src="https://sahabulh.github.io/images/unm-ece-logo.png" alt="Photo" style="width: 250px;"/> 
 </p>
 
 <p align="justify">
