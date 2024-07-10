@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 -   **Research Collaborator**<br>
-	*March 2022 - Present*<br>
+	*February 2022 - Present*<br>
 	[Sandia National Laboratories](https://www.sandia.gov/)<br>
 	Project: [EVs@Scale](https://www.energy.gov/eere/vehicles/electric-vehicles-scale-consortium)<br>
 	Project objectives:
@@ -14,6 +14,9 @@ author_profile: true
 	<li>Assessments and evaluations of Plug & Charge security for ISO 15118 capable EV charging infrastructure.</li>
 	<li>Vulnerability and security posture identification of the implemented Plug & Charge (PnC) system.</li>
 	<li>Public Key Infrastructure (PKI) based security for electric vehicle charging system.</li>
+	<li>Enhancing ISO 15118 and OCPP implementations by adding OCSP capabilities.</li>
+	<li>Scalability testing of EV charging system using SNL developed VM management tools.</li>
+	<li>Software-in-the-loop (SIL) and Hardware-in-the-loop (HIL) tests of the EV charging system.</li>
 	</ul>
 -   **Graduate Research Assistant**<br>
 	*August 2021 - Present*<br>
