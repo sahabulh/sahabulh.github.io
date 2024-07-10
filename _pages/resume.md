@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<object class="pdf" data="https://sahabulh.github.io/files/resume.pdf" type="application/pdf" width="100%">
+<object class="pdf" data="https://sahabulh.github.io/files/resume.pdf" type="application/pdf" width="100%" height="500px">
 	<p>Unable to display the resume. Please <a style="text-decoration:none;" href="https://sahabulh.github.io/files/resume.pdf">download</a> instead.</p>
 </object>
