@@ -23,6 +23,7 @@ author_profile: true
 	<ul>
 	<li>Deep learning (Keras, Tensorflow, Scikit-learn)</li>
 	<li>Reinforcement Learning (Stable Baselines, OpenAI Gym)</li>
+	<li>MATLAB Simulink</li>
 	<li>Network Simulation (NS3)</li>
 	<li>Blockchain (Geth, Truffle)</li>
 	<li>FPGA (Xilinx Vivado)</li>
