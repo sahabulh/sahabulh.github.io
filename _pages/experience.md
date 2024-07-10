@@ -23,11 +23,12 @@ author_profile: true
 	[Performance & Resource OpTimizatiOn in Networks (PROTON) Lab](https://ece-research.unm.edu/tsiropoulou/Students.html)<br>
 	Department of Electrical and Computer Engineering<br>
  	University of New Mexico<br>
-	Research topics:
+	Research goals:
 	<ul>
-	<li>Ground based alternative positioning, navigation and timing services (APNT).</li>
-	<li>Mobile cellular communication and APNT using Intelligent Reflecting Surfaces.</li>
-	<li>Performance and resource optimization in networks using game theory and reinforcement learning.</li>
+	<li>Finding ground based alternative solutions to positioning, navigation and timing services (PNT).</li>
+	<li>Optimizing cyber-physical networks using network economic, game theoretic and machine learning models.</li>
+	<li>Securing cyber-physical systems with public key cryptography and blockchain.</li>
+	<li>Investigating and designing vehicle-to-vehicle energy trading protocol.</li>
 	</ul>
 -   **Lecturer**<br>
 	*October 2016 - July 2021*<br>
